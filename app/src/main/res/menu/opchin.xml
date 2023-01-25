@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_share"
+        android:title="الصفحة الرئيسية "/>
+    <item
+        android:id="@+id/item_intent"
+        android:title="الصفحة الثانية "/>
+    <item
+        android:id="@+id/item_logout"
+        android:title="الخروج من التطبيق "/>
+
+
+</menu>
